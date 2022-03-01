@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+echo "ALX school"
+>>>>>>> update_script
 =======
 echo "ALX school"
 >>>>>>> update_script
